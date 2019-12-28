@@ -1,0 +1,2 @@
+# thong
+learn git
